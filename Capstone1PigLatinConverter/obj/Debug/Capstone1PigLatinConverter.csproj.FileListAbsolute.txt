@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\obj\Debug\Capstone1PigLatinConverter.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\obj\Debug\Capstone1PigLatinConverter.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\bin\Debug\Capstone1PigLatinConverter.exe.config
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\bin\Debug\Capstone1PigLatinConverter.exe
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\bin\Debug\Capstone1PigLatinConverter.pdb
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\obj\Debug\Capstone1PigLatinConverter.exe
+C:\Users\jduca\source\repos\Capstone1PigLatinConverter\Capstone1PigLatinConverter\obj\Debug\Capstone1PigLatinConverter.pdb
